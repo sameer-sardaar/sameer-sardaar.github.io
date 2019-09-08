@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Sameer Sardaar</title>
-    <link>sameer-sardaar.github.io/publication/</link>
-      <atom:link href="sameer-sardaar.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
+    <title>Yannis J. Trakadis | Sameer Sardaar</title>
+    <link>sameer-sardaar.github.io/authors/yannis-j.-trakadis/</link>
+      <atom:link href="sameer-sardaar.github.io/authors/yannis-j.-trakadis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yannis J. Trakadis</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>sameer-sardaar.github.io/img/icon-192.png</url>
-      <title>Publications</title>
-      <link>sameer-sardaar.github.io/publication/</link>
+      <title>Yannis J. Trakadis</title>
+      <link>sameer-sardaar.github.io/authors/yannis-j.-trakadis/</link>
     </image>
     
     <item>
