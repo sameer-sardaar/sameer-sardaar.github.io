@@ -2,8 +2,8 @@
   "name": "Sameer Sardaar",
   "short_name": "Sameer Sardaar",
   "lang": "en-us",
-  "theme_color": "rgb(251, 191, 183)",
-  "background_color": "rgb(251, 191, 183)",
+  "theme_color": "#3f51b5",
+  "background_color": "#3f51b5",
   "icons": [{
     "src": "img/icon-192.png",
     "sizes": "192x192",
